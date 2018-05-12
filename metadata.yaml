@@ -1,5 +1,5 @@
 _repo: The-Grizzly-King--13-A-Romance-of-the-Wild_10977
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Hoffman, Frank B.
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1958
     gutenberg_agent_id: '40400'
     url: http://www.gutenberg.org/2009/agents/40400
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -19,6 +22,8 @@ description: "The Grizzly King: A Romance of the Wild is a 1916 novel by America
   \ author James Oliver Curwood. It was the inspiration for the director Jean-Jacques\
   \ Annaud's 1988 film L'Ours, known in North America as The Bear.\n\n\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10977#The-Grizzly-King--13-A-Romance-of-the-Wild
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
